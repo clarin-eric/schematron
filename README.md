@@ -1,6 +1,6 @@
 [![Travis Build Status](https://travis-ci.com/Schematron/schematron.svg?branch=master "Travis Build Status")](https://travis-ci.com/Schematron/schematron.svg?branch=master)
 
-# schematron [![Release](https://img.shields.io/github/release/schematron/schematron.svg)](https://github.com/schematron/schematron/releases/latest)
+# schematron [![Release](https://img.shields.io/github/release/clarin-eric/schematron.svg)](https://github.com/clarin-eric/schematron/releases/latest)
 This is the most recent version of the "skeleton" XSLT implementation of ISO Schematron by Rick Jelliffe and many others. 
 Notable early contributions were made by Oliver Becker and his students. 
 
